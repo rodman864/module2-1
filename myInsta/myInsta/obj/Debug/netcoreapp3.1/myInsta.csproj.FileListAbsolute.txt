@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/myInsta/myInsta/bin/Debug/netcoreapp3.1/myInsta.deps.json
+/Users/antonio/Desktop/CS133/myInsta/myInsta/bin/Debug/netcoreapp3.1/myInsta.runtimeconfig.json
+/Users/antonio/Desktop/CS133/myInsta/myInsta/bin/Debug/netcoreapp3.1/myInsta.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/myInsta/myInsta/bin/Debug/netcoreapp3.1/myInsta.dll
+/Users/antonio/Desktop/CS133/myInsta/myInsta/bin/Debug/netcoreapp3.1/myInsta.pdb
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.dll
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.pdb
+/Users/antonio/Desktop/CS133/myInsta/myInsta/obj/Debug/netcoreapp3.1/myInsta.genruntimeconfig.cache
